@@ -1,32 +1,32 @@
 [
 {
-District: "วัดโบสถ์ ",
-AQI: "300",
+"District": "วัดโบสถ์ ",
+"AQI": "300",
 "IMG":"https://raw.githubusercontent.com/kawwalin-jaiphet/Pidlok/40d969c9360cc499397491d9d83156ffb9541645/aqi5.png.png"
 },
 {
-District: "เมืองพิษณุโลก",
-AQI: "183",
+"District": "เมืองพิษณุโลก",
+"AQI": "183",
 "IMG":"https://raw.githubusercontent.com/kawwalin-jaiphet/Pidlok/40d969c9360cc499397491d9d83156ffb9541645/aqi4.png.png" 
 },
 {
-District: "บางระกำ",
-AQI: "121",
+"District": "บางระกำ",
+"AQI": "121",
 "IMG":"https://raw.githubusercontent.com/kawwalin-jaiphet/Pidlok/40d969c9360cc499397491d9d83156ffb9541645/aqi3.png.png" 
 },
 {
-District: "วังทอง",
-AQI: "156",
+"District": "วังทอง",
+"AQI": "156",
 "IMG":"https://raw.githubusercontent.com/kawwalin-jaiphet/Pidlok/40d969c9360cc499397491d9d83156ffb9541645/aqi4.png.png"
 },
 {
-District: "พรหมพิราม",
-AQI: "93",
+"District": "พรหมพิราม",
+"AQI": "93",
 "IMG":"https://raw.githubusercontent.com/kawwalin-jaiphet/Pidlok/40d969c9360cc499397491d9d83156ffb9541645/aqi2.png.png"
 },
 {
-District: "บางกระทุ่ม",
-AQI: "85",
+"District": "บางกระทุ่ม",
+"AQI": "85",
 "IMG":"https://raw.githubusercontent.com/kawwalin-jaiphet/Pidlok/40d969c9360cc499397491d9d83156ffb9541645/aqi2.png.png"
 }
 ]
