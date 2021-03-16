@@ -1,26 +1,26 @@
 [
 {
-District: "วัดโบสถ์ ",
-AQI: "300"
+  District: "วัดโบสถ์ ",
+  AQI: "300"
 },
 {
-District: "เมืองพิษณุโลก",
-AQI: "183"
+  District: "เมืองพิษณุโลก",
+  AQI: "183"
 },
 {
-District: "บางระกำ",
-AQI: "121"
+  District: "บางระกำ",
+  AQI: "121"
 },
 {
-District: "วังทอง",
-AQI: "156"
+  District: "วังทอง",
+  AQI: "156"
 },
 {
-District: "พรหมพิราม",
-AQI: "93"
+  District: "พรหมพิราม",
+  AQI: "93"
 },
 {
-District: "บางกระทุ่ม",
-AQI: "85"
+  District: "บางกระทุ่ม",
+  AQI: "85"
 }
 ]
